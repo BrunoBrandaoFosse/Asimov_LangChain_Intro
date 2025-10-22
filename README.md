@@ -2,12 +2,13 @@
 
 ## Estrutura do curso
 
-- **Introdução a LangChain**
+### Introdução a LangChain
 
-  - Apresentação do curso Aplicações de IA com LangChain
-  - Evitando erros comnus com LangChain
-  - Models - Acessando modelos de linguagem
-  - LangChain vs. API da OpenAI
+- Apresentação do curso Aplicações de IA com LangChain
+- Evitando erros comnus com LangChain
+- Models - Acessando modelos de linguagem
+- LangChain vs. API da OpenAI
+  <br>
 
 - **Estrutura básica de LangChain**
 
@@ -16,6 +17,7 @@
   - Prompt Templates - Criando prompts para aplicações robustas
   - Utilizando templates para prompts
   - Output Parsers - Padronizando a resposta do modelo
+    <br>
 
 - **Chains para encadeamento de prompts**
 
@@ -25,8 +27,9 @@
   - Os principais Runnables do LangChain
   - Cadeias de roteamento
   - Memory - Adicionando memória à conversa com o modelo
+    <br>
 
-- RAG - Conversando com os seus dados
+- **RAG - Conversando com os seus dados**
 
   - RAG - Introdução a técnica Retrieval Augmented Generation
   - Retrieval Augmented Generation (RAG)
@@ -39,3 +42,4 @@
   - Retrieval - Encontrando trechos relevantes
   - RAG - Conversando com os seus dados
   - Um pipeline completo com RAG
+    <br>
