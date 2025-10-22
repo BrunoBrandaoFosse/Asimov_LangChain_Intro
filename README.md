@@ -2,13 +2,13 @@
 
 ## Estrutura do curso
 
-### Introdução a LangChain\*\*
+- **Introdução a LangChain**
 
-- [x] Apresentação do curso Aplicações de IA com LangChain
-- [x] Evitando erros comnus com LangChain
-- [x] Models - Acessando modelos de linguagem
-- [x] LangChain vs. API da OpenAI
-      <br>
+  - Apresentação do curso Aplicações de IA com LangChain
+  - Evitando erros comnus com LangChain
+  - Models - Acessando modelos de linguagem
+  - LangChain vs. API da OpenAI
+    <br>
 
 - **Estrutura básica de LangChain**
 
